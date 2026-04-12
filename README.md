@@ -1,6 +1,6 @@
-This project focuses on predicting customer lifetime value using transactional and demographic data.
+## This project focuses on predicting customer lifetime value using transactional and demographic data.
 
-## Project Goals
+### Project Goals
 
 - Feature engineering (RFM)
 - Model training (Random Forest, XGBoost)
